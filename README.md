@@ -67,7 +67,6 @@ The system is designed to make roadside assistance faster, easier, and more orga
 
 ## 📸 Application Screenshots
 <img width="958" height="472" alt="Screenshot 2026-09-26 162818" src="https://github.com/user-attachments/assets/fc8015d5-0a8a-4242-8491-c64d9cfeeffd" />
-<img width="960" height="504" alt="Screenshot 2026-09-26 163231" src="https://github.com/user-attachments/assets/28e3288f-5104-43db-a20b-dfc5d6de011f" />
 <img width="960" height="470" alt="Screenshot 2026-09-26 163223" src="https://github.com/user-attachments/assets/bfdfb8de-1f23-4403-98e0-0775defff42c" />
 <img width="960" height="471" alt="Screenshot 2026-09-26 163117" src="https://github.com/user-attachments/assets/666b75d3-8c6e-47ca-83b3-66aa4fb3b23b" />
 <img width="960" height="477" alt="Screenshot 2026-09-26 163046" src="https://github.com/user-attachments/assets/de8ff057-e898-4d2e-99db-645bb75a23bb" />
@@ -76,3 +75,4 @@ The system is designed to make roadside assistance faster, easier, and more orga
 <img width="960" height="474" alt="Screenshot 2026-09-26 162936" src="https://github.com/user-attachments/assets/2b998bfb-d32a-4feb-be92-6ddbb719446f" />
 <img width="960" height="477" alt="Screenshot 2026-09-26 162922" src="https://github.com/user-attachments/assets/26ac380c-a7ef-4b7d-95a1-9f74fada6512" />
 <img width="966" height="470" alt="Screenshot 2026-09-26 162908" src="https://github.com/user-attachments/assets/0cd8a2a7-1852-4920-a653-d1c51ba62edc" />
+<img width="960" height="504" alt="Screenshot 2026-09-26 163231" src="https://github.com/user-attachments/assets/28e3288f-5104-43db-a20b-dfc5d6de011f" />
