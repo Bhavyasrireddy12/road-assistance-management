@@ -65,33 +65,6 @@ The system is designed to make roadside assistance faster, easier, and more orga
 - GitHub
 - Postman
 
-## 📂 Project Structure
-
-```text
-road-assistance-management/
-│
-├── backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── middleware/
-│   ├── config/
-│   ├── server.js
-│   ├── package.json
-│   └── .env
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── services/
-│   │   └── ...
-│   ├── package.json
-│   └── vite.config.js
-│
-├── .gitignore
-└── README.md
-
 ## 📸 Application Screenshots
 <img width="958" height="472" alt="Screenshot 2026-09-26 162818" src="https://github.com/user-attachments/assets/fc8015d5-0a8a-4242-8491-c64d9cfeeffd" />
 <img width="966" height="470" alt="Screenshot 2026-09-26 162908" src="https://github.com/user-attachments/assets/0cd8a2a7-1852-4920-a653-d1c51ba62edc" />
