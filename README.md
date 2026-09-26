@@ -91,4 +91,4 @@ road-assistance-management/
 │
 ├── .gitignore
 └── README.md
-<img width="958" height="472" alt="Screenshot 2026-09-26 162818" src="https://github.com/user-attachments/assets/e9db39f8-c7d7-4514-8290-ec8aef367dbf" />
+
