@@ -10,8 +10,6 @@ The Road Assistance Management System provides a platform where users can reques
 
 The system is designed to make roadside assistance faster, easier, and more organized.
 
-## ✨ Features
-
 ### 👤 User
 - User registration and login
 - Secure authentication
@@ -76,3 +74,79 @@ The system is designed to make roadside assistance faster, easier, and more orga
 <img width="960" height="477" alt="Screenshot 2026-09-26 162922" src="https://github.com/user-attachments/assets/26ac380c-a7ef-4b7d-95a1-9f74fada6512" />
 <img width="966" height="470" alt="Screenshot 2026-09-26 162908" src="https://github.com/user-attachments/assets/0cd8a2a7-1852-4920-a653-d1c51ba62edc" />
 <img width="960" height="504" alt="Screenshot 2026-09-26 163231" src="https://github.com/user-attachments/assets/28e3288f-5104-43db-a20b-dfc5d6de011f" />
+
+## 📂 Project Structure
+
+```text
+road-assistance-management/
+│
+├── backend/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── middleware/
+│   ├── config/
+│   ├── server.js
+│   └── package.json
+│
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── services/
+│   │   └── ...
+│   ├── package.json
+│   └── vite.config.js
+│
+├── .gitignore
+└── README.md
+```
+## 📸 Application Screenshots
+
+<img width="958" alt="Login Page" src="https://github.com/user-attachments/assets/fc8015d5-0a8a-4242-8491-c64d9cfeeffd" />
+
+<img width="966" alt="User Dashboard" src="https://github.com/user-attachments/assets/0cd8a2a7-1852-4920-a653-d1c51ba62edc" />
+
+<img width="960" alt="Screenshot 3" src="https://github.com/user-attachments/assets/28e3288f-5104-43db-a20b-dfc5d6de011f" />
+
+<img width="960" alt="Screenshot 4" src="https://github.com/user-attachments/assets/bfdfb8de-1f23-4403-98e0-0775defff42c" />
+
+<img width="960" alt="Screenshot 5" src="https://github.com/user-attachments/assets/666b75d3-8c6e-47ca-83b3-66aa4fb3b23b" />
+
+<img width="960" alt="Screenshot 6" src="https://github.com/user-attachments/assets/de8ff057-e898-4d2e-99db-645bb75a23bb" />
+
+<img width="960" alt="Screenshot 7" src="https://github.com/user-attachments/assets/ecd8d83d-05bf-41de-966f-86068fc53b7a" />
+
+<img width="960" alt="Screenshot 8" src="https://github.com/user-attachments/assets/efd3111a-7a98-44fa-9af9-dd5a48b15cfd" />
+
+<img width="960" alt="Screenshot 9" src="https://github.com/user-attachments/assets/2b998bfb-d32a-4feb-be92-6ddbb719446f" />
+
+<img width="960" alt="Screenshot 10" src="https://github.com/user-attachments/assets/26ac380c-a7ef-4b7d-95a1-9f74fada6512" />
+Next steps
+
+## ⚙️ Installation and Setup
+
+### Prerequisites
+- Node.js
+- MongoDB
+- Git
+
+### Clone the Repository
+```bash
+git clone https://github.com/Bhavyasrireddy12/road-assistance-management.git
+cd road-assistance-management
+## 2. Future Enhancements
+
+```markdown
+## 🚀 Future Enhancements
+
+- Real-time location tracking using GPS
+- Google Maps integration
+- Online payment integration
+- Emergency contact notifications
+- Mobile application support
+## 👩‍💻 Author
+
+**Bhavyasri**
+
+GitHub: Bhavyasrireddy12
